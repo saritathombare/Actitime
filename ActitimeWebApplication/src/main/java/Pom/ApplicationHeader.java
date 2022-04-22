@@ -45,21 +45,21 @@ public class ApplicationHeader {
 			users.click();
 		}
 		
-		public void logoutFromApplication()
+		public void clickOnLogout()
 		{
 			logOut.click();
 		}
 		
 		
 		//Method 2
-		public void loginToApplication()
-		{
-			timeTrack.click();
-			tasks.click();
-			reports.click();
-			users.click();
-			logOut.click();
-		}
+//		public void loginToApplication()
+//		{
+//			timeTrack.click();
+//			tasks.click();
+//			reports.click();
+//			users.click();
+//			logOut.click();
+//		}
 		
 
 }

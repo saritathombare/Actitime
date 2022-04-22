@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-22T22:31:48 IST" name="Default suite" finished-at="2022-04-22T22:32:12 IST" duration-ms="23438">
+    <groups>
+    </groups>
+    <test started-at="2022-04-22T22:31:48 IST" name="Default test" finished-at="2022-04-22T22:32:12 IST" duration-ms="23438">
+      <class name="Test.TestNgTestClass">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Test.TestNgTestClass@4de4b452]" started-at="2022-04-22T22:31:48 IST" name="launchBrowser" finished-at="2022-04-22T22:31:56 IST" duration-ms="7269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="loginToActitime()[pri:0, instance:Test.TestNgTestClass@4de4b452]" started-at="2022-04-22T22:31:56 IST" name="loginToActitime" finished-at="2022-04-22T22:32:03 IST" duration-ms="7770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToActitime -->
+        <test-method signature="toVerifyTaskButton()[pri:0, instance:Test.TestNgTestClass@4de4b452]" started-at="2022-04-22T22:32:03 IST" name="toVerifyTaskButton" finished-at="2022-04-22T22:32:05 IST" duration-ms="1513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyTaskButton -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Test.TestNgTestClass@4de4b452]" started-at="2022-04-22T22:32:05 IST" name="afterMethod" finished-at="2022-04-22T22:32:05 IST" duration-ms="641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="loginToActitime()[pri:0, instance:Test.TestNgTestClass@4de4b452]" started-at="2022-04-22T22:32:05 IST" name="loginToActitime" finished-at="2022-04-22T22:32:08 IST" duration-ms="2288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToActitime -->
+        <test-method signature="toVerifyUserButton()[pri:0, instance:Test.TestNgTestClass@4de4b452]" started-at="2022-04-22T22:32:08 IST" name="toVerifyUserButton" finished-at="2022-04-22T22:32:11 IST" duration-ms="3283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserButton -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Test.TestNgTestClass@4de4b452]" started-at="2022-04-22T22:32:11 IST" name="afterMethod" finished-at="2022-04-22T22:32:12 IST" duration-ms="585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Test.TestNgTestClass@4de4b452]" started-at="2022-04-22T22:32:12 IST" name="afterClass" finished-at="2022-04-22T22:32:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Test.TestNgTestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
